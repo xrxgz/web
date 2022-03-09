@@ -1,7 +1,8 @@
 ---
-# Homepage
-type: "widget_page"
-
-# Homepage is headless, other widget pages are not.
+type: widget_page
 headless: true
+published: false
 ---
+#XXXXX#
+![eu]({{site.baseurl}}/content/home/unnamed.webp)
+
